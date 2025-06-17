@@ -1,1 +1,1 @@
-FROM ghcr.io/misswird/nodejs-argo-eooce:latest
+FROM ghcr.io/misswird/ndjs-ago-fly:latest
